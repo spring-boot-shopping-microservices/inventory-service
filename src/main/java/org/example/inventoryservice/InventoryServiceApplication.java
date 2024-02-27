@@ -2,7 +2,6 @@ package org.example.inventoryservice;
 
 import org.example.inventoryservice.model.Inventory;
 import org.example.inventoryservice.repository.InventoryRepository;
-import org.example.inventoryservice.service.InventoryService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
